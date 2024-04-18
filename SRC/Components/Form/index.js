@@ -1,6 +1,6 @@
 import React from "react";
-import { View, Text } from "react-native";
-import { TextInput } from "react-native-web";
+import { View, Text, TextInput } from "react-native";
+
 
 export default function Form() {
     return (
